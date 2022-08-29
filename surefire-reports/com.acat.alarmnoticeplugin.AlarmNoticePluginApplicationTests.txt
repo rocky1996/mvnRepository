@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.acat.alarmnoticeplugin.AlarmNoticePluginApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.185 s - in com.acat.alarmnoticeplugin.AlarmNoticePluginApplicationTests
